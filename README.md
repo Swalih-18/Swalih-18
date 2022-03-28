@@ -1,5 +1,5 @@
 - 🤍 Hi, I’m Swalih
-- 🗺️ I’m interested in Software development, Web development
+- 🗺️ Interested in Software development, Web development
 - 😌 Figuring out new things
 
 <!---
